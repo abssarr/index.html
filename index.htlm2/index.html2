@@ -12,21 +12,46 @@
 
  <corps>   
 
- <h1>Menu les saveurs du senegal</h1>
+ <h1>Menu le meilleur de la cuisine sénègalaise </h1>
+  <meta class="left"><img src="Cuisines senegalaise1.jpeg" alt="cuisine senegalaise1" /></meta>
+     
+        <p>Bienvenue au restaurant "Le meilleur de la cuisine sénégalaise". Découvrez notre menu exquis mettant en avant les délices culinaires du Sénégal. Chaque plat est préparé avec soin pour vous offrir une expérience gastronomique inoubliable.</p>
 
     <h2>Apéritifs</h2>  
 
   <ul>     
 
-   <li>          
+   <li>          <meta class="left"><img src="salades senegalaise.jpeg" alt="salade senegalaise" /></li>
 
-  <strong>Salade Caprese</strong>       
+  <strong>Salade à la senegalaise</strong>       
 
-     <p>Tomates fraîches, mozzarella et basilic arrosés de glaçage balsamique.</p> 
+     <p>carottes rapés, concombre, tomate, aubergine, sauté de pomme de terre, neime. </p> 
+     
+     <h3>Apéritifs</h3>  
 
-       </li>    
+  <ul>     
 
-    <!-- Ajouter deux autres éléments d'apéritif avec des descriptions --> 
+   <li>          <meta class="left"><img src="Akaras.jpeg" alt="Akaras" /></li>
+
+  <strong>Akaras</strong>       
+
+     <p> Des petits beignets salés  </p>
+     <strong>Ingrédients :farine, niébé,de l'eau salée, sachet de levure boulangere</strong>
+     <ul>
+        
+       </li><h4>Apéritifs</h4>  
+
+  <ul>     
+
+   <li>          <meta class="left"><img src="Wrap poulet.jpeg" alt="Wrap poulet" /></li>
+
+  <strong>Wrap poulet</strong>       
+
+     <p> Un wrap savoureux garni de poulet grillé, légumes frais et sauce crémeuse.</p>
+     <strong>Ingrédients : tortilla, poulet, laitue, tomate, sauce yaourt</strong>
+        <ul>
+            
+        </ul>
 
    </ul>  
 
@@ -36,10 +61,10 @@
 
      <li>      
 
-      Saumon grillé     
+      Le Thieboudienne     
 
-       <p>Filet de saumon assaisonné et grillé à la perfection, servi avec une sauce au beurre citronné.</p>   
-
+       <p>riz au poisson, de légumes (comme du chou, des carottes, des navets), et une sauce tomate épicée.</p>   
+       <meta class="left"><img src="Thieboudieune.jpeg" alt="thieboudieune" /></meta>
      </li>     
 
    <!-- Ajouter deux autres éléments du plat principal avec des descriptions --> 
@@ -52,9 +77,10 @@
 
    <li>    
 
-        Fondue au chocolat     
+      tiakri à l'ananas   
 
-       <p>Assortiment de fruits et de guimauves servis avec une riche fondue au chocolat.</p>    
+       <p>semoule, fromage blanc, crème fraiche liquide, eau de fleur d'oranger, sucre de canne, tranches d'ananas</p>
+</p>    
 
     </li>    
 
@@ -62,7 +88,7 @@
 
   </ul> 
 
-   <p><a href="contact.html">Contactez-nous pour réserver</a></p> 
+   <p><a href="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.kilometre-0.fr%2Frecettes%2Ftiakri-a-lananas%2F&psig=AOvVaw2hkdIvPEzGjze3jBhN0U4-&ust=1760025698308000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCMjSuuf8lJADFQAAAAAdAAAAABAE">Contactez-nous pour réserver</a></p> 
 
 </body>
 
